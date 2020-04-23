@@ -9,7 +9,7 @@
   "keywords": [
     "puppeteer"
   ],
-  "author": "Dang Thanh Long",
+  "author": "UET",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^2.1.1"
